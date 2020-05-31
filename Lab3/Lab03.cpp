@@ -12,12 +12,10 @@
 // 6. Write a function definition, call functions, pass arguments, and return values.
 // 7. Define and use named constants.
 //
-// AUTHORS
-// Brian Ayon (bayon1@asu.edu)
+
 //
 // COURSE AND LAB INFO
 // CSE100 Principles of Programming with C++, Spring 2020
-// Lab 3   Date/Time: Tuesday, 10:30 am   TA: your-lab-ta's-name
 //--------------------------------------------------------------------------------------------------
 //
 // TESTING SECTION
