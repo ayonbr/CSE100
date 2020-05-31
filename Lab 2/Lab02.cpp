@@ -2,11 +2,9 @@
 //
 // DESCRIPTION: Reads three exam scores for three students, calculates and displ// ays the average exam score and the standard deviation of the exam scores.
 //
-// AUTHORS: 	Brian Ayon	bayon1@asu.edu
+
 //
 // COURSE: 	CSE 100 Principles of Programming with C++, Spring 2020
-//
-// LAB INFO: 	Lab 2	Date/Time: Tuesday, 10:30 am	Lab TA: 
 // --------------------------------------------------------------------------
 // TESTING
 //
