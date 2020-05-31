@@ -5,7 +5,7 @@
 // Reads season statistics for basketball players from an input file named "stats-season.txt", computes per-
 // game statistics, and writes the per-game statistics to an output file named "stats-game.txt".
 //
-// AUTHOR: Brian Ayon, bayon1@asu.edu, brianayon19@gmail.com
+
 //
 // PRIMARY LEARNING OBJECTIVES
 // 1. Complete all of the objectives of the previous lab projects.
@@ -17,7 +17,7 @@
 //
 // COURSE INFO
 // CSE100 Principles of Programming with C++, Spring 2020
-// Lab 5, Date/Time: your-lab-date-and-time, TA: your-lab-ta's-name
+
 //************************************************************************************************************
 #include <cstdlib>    // For exit() function
 #include <fstream>    // For ifstream, ofstream
