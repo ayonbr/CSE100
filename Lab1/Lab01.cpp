@@ -6,13 +6,9 @@
 // salary, it then calculates the monthly and weekly salary by simple calculations.
 // It then prints out the three values for the user to see.
 
-//
-// AUTHOR'S
-// Name: Brian Ayon    Email: bayon1@asu.edu
-//
 // COURSE INFO
 // CSE100 Principles of Programming with C++. Spring 2020
-// Lab Project 1    Lab Date and Time: Tuesday, 10:30 am     TA Name: 
+
 
 
 #include <iostream>
