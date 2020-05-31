@@ -4,12 +4,11 @@
 // DESCRIPTION
 // Reads the coefficients of quadratic equations from "coeffs.txt". Calculates
 // the roots of each equation and outputs the results to "roots.txt".
-//
-// AUTHOR1: Brian Ayon, your-asurite-username, your-email-address
+
 //
 // COURSE INFO
 // CSE100 Principles of Programming with C++, Spring 2020
-// Lab 4, Date/Time: your-lab-date-and-time, TA: your-lab-ta's-name
+
 //==============================================================================
 // TESTING
 //
