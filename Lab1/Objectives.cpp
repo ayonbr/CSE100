@@ -4,13 +4,11 @@
 // DESCRIPTION
 // This file contains a function named print_objectives() that is called from main(). It displays the
 // Lab 1 learning objectives to the output window.
-//
-// AUTHORS
-// Brian Ayon            bayon1@asu.edu
-//
+
+
 // COURSE INFO
 // CSE100 Principles of Programming with C++, Spring 2020
-// Lab Project 1  Date/Time: Tuesday, 10:30 am  TA: your-lab-ta
+
 //***************************************************************************************************
 #include <iostream>
 
