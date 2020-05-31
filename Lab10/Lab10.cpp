@@ -1,9 +1,6 @@
 /*-------------------------------------------------------------------------
-// AUTHOR: Brian Ayon
 // FILENAME: Lab10.cpp
 // SPECIFICATION: Being able to manipulate array through sorting and removing
-// FOR: CSE 100- Lab #10
-// TIME SPENT: 1.5 hours
 //----------------------------------------------------------------------*/
 
 #include <iostream>
