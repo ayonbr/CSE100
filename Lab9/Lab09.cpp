@@ -1,10 +1,7 @@
 
 /*-------------------------------------------------------------------------
-// AUTHOR: Brian Ayon
 // FILENAME: Lab09.cpp
 // SPECIFICATION: Taking input into an array and outputting based on it.
-// FOR: CSE 100- Lab #9
-// TIME SPENT: 40 min
 //-----------------------------------------------------------*/
 
 #include <iostream>
