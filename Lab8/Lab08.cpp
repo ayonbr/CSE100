@@ -1,9 +1,6 @@
 /*------------------------------------------------------------
-// AUTHOR: Brian Ayon
 // FILENAME: Lab08.cpp
 // SPECIFICATION: Incorporating and testing of the Student header file
-// FOR: CSE 100- Lab #8
-// TIME SPENT: 2 hours
 //-----------------------------------------------------------*/
 
 #include <iostream>
