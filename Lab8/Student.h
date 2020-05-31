@@ -1,9 +1,6 @@
 /*------------------------------------------------------------
-// AUTHOR: Brian Ayon
 // FILENAME: Student.h
 // SPECIFICATION: header file containing the student class
-// FOR: CSE 100- Lab #8
-// TIME SPENT: 30 min
 //-----------------------------------------------------------*/
 
 #include <iostream>
